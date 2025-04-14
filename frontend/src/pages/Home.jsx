@@ -34,7 +34,7 @@ const Home = () => {
 
 	return (
 		<>
-			<h1>Home</h1>
+			<h1>The Hero Library</h1>
 			<form onSubmit={handleCreateHero}>
 				<label htmlFor="name">Add A New Hero</label>
 				<input
